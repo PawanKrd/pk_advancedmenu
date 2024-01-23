@@ -3,9 +3,11 @@ use_fxv2_oal 'yes'
 lua54        'yes'
 game         'gta5'
 
-description 'Pawan.Krd Advanced Menu'
-
-version '1.5.0'
+name 'pk_advancedmenu'
+author 'Pawan.Krd'
+description 'A simple and lightweight menu script for FiveM.'
+version '1.5'
+repository 'https://github.com/PawanKrd/pk_advancedmenu'
 
 -- Client scripts configuration
 client_scripts {
