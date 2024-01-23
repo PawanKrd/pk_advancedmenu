@@ -2,8 +2,6 @@
 
 pk_advancedmenu is a new and innovative menu system designed for interacting with game entities. It's an easy-to-use interface that can be navigated with both a mouse and a keyboard.
 
-![image|690x372](upload://hsiPDWa5tRnZ1HgnaTNDnlEQB0U.jpeg)
-
 Features:
 * Navigate through menu options using your mouse wheel or the arrow keys on your keyboard.
 * Select options using either a left mouse click, space bar, E button, or Enter button.
